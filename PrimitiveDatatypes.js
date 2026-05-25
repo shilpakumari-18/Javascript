@@ -1,5 +1,5 @@
 let name = "Shilpa Kumari";
-console.log(name);
+console.log(name);                    //String,Number,boolean,Undefined,null,Symbol,Bigint
 console.log(typeof name); 
 
 let age=25;
